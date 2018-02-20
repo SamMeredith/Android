@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">A+T Bluetooth Upload</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth uploader.</string>
+    <string name="bt_not_available">Bluetooth is not available.</string>
+    <string name="read_fail">File open failed. Check you selected the correct file.</string>
+    <string name="storage_not_found">Device storage could not be accessed, check device settings.</string>
+    <string name="bad_file">File has incorrect format. Check you have selected the correct file.</string>
+    <string name="no_file">No file found. Please open a file first</string>
+    <string name="no_internet">No internet connection. Please connect your device to an active network.</string>
+    <string name="bad_download">Software download failed. Please check internet connection and try again.</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Scanning for devices&#8230;</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found. Ensure display is on bootload screen and you have selected \'Yes\' to \'Are you sure?\'.</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- UI -->
+    <string name="title">A+T Instruments Uploader</string>
+    <string name="description">V1.0 \n A+T Instruments Ltd \n
+        235 Bentley Way \n Lymington \n UK \n SO41 8JW \n Tel: +44 (0)1590 718182 \n
+        info@AandTinstruments.com</string>
+    <string name="connect">Connect Device</string>
+    <string name="open">Open Software File</string>
+    <string name="upload">Upload Software</string>
+    <string name="bluetooth">Connect</string>
+</resources>
